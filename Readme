@@ -1,0 +1,32 @@
+# Connect3Game
+
+Connect3Game is a simple and entertaining Android game that combines elements of Tic-Tac-Toe and Connect Four. The objective is to connect three of your game pieces in a row, column, or diagonal while preventing your opponent from achieving the same.
+
+## Features
+
+- Enjoyable gameplay with a twist on classic games.
+- Two-player mode: Challenge your friends or family.
+- User-friendly interface and interactive design.
+- An ideal way to pass the time and have fun on your Android device.
+
+## How to Play
+
+1. Install the game on your Android device.
+2. Launch the game and select 'Play' to begin.
+3. Take turns with your opponent, aiming to connect three of your pieces.
+4. The player who successfully connects three in a row, column, or diagonal wins.
+
+## Contributions
+
+We welcome contributions and improvements to the Connect3Game project. Feel free to fork the repository, make changes, and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Inspired by classic games like Tic-Tac-Toe and Connect Four.
+- Built with Android Studio and Java.
+
+Enjoy the game, and have fun connecting three in a row!
